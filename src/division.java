@@ -5,6 +5,6 @@ public class division {
         int a=sc.nextInt();
         int b=sc.nextInt();
         int c=sc.nextInt();
-        System.out.println("division result="+(a-b-c));
+        System.out.println("division result="+(a/b/c));
     }
 }
